@@ -43,7 +43,6 @@
 
 <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-ff9801.svg?logo=amazonaws&logoColor=white"></a>
 <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0088d7.svg?logo=microsoftazure&logoColor=white"></a>
-<a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0088d7.svg?logo=microsoftazure&logoColor=white"></a>
 <a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0181ff.svg?logo=digitalocean&logoColor=white"></a>
 
 ### 🗄️ Databases 
