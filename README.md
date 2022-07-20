@@ -22,9 +22,8 @@
 <p>
     <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-68217A.svg?logo=dotnet&logoColor=white"></a>
     <a href="#"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-68217A.svg?logo=dotnet&logoColor=white"></a>
-    <a href="#"><img alt="Blazor" src="https://img.shields.io/badge/Blazor-68217A.svg?logo=dotnet&logoColor=white"></a>
+<!--  Commenting out until I've used it more ;-)    <a href="#"><img alt="Blazor" src="https://img.shields.io/badge/Blazor-68217A.svg?logo=dotnet&logoColor=white"></a> -->
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="Moq" src="https://img.shields.io/badge/-Moq-lightgreen?logo=moq&logoColor=white"></a>   
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
