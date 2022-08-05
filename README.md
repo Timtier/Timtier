@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFC728&center=true&multiline=true&width=1000&lines=Trying+out+new+technologies+or+having+fun+in+my+free+time!)](https://git.io/typing-svg)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=timtier&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="timtier" />  <a href="https://twitter.com/tmtr_dev" target="blank"><img src="https://img.shields.io/twitter/follow/tmtr_dev?logo=twitter&style=for-the-badge" alt="tmtr_dev" /></a></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=timtier&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="timtier" /></p>
 
 👨‍💻 Programming and markup languages
 
