@@ -10,6 +10,7 @@
 <p>
     <a href="https://github.com/search?q=user%3ATimtier+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
    <a href="https://github.com/search?q=user%3ATimtier+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+       <a href="https://github.com/search?q=user%3ATimtier+language%3Adart"><img alt="Dart" src="https://custom-icon-badges.herokuapp.com/badge/Dart-2BB7F6.svg?logo=dart&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATimtier+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATimtier+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
@@ -24,6 +25,7 @@
     <a href="#"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-68217A.svg?logo=dotnet&logoColor=white"></a>
 <!--  Commenting out until I've used it more ;-)    <a href="#"><img alt="Blazor" src="https://img.shields.io/badge/Blazor-68217A.svg?logo=dotnet&logoColor=white"></a> -->
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-2EB8F7.svg?logo=flutter&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="Moq" src="https://img.shields.io/badge/-Moq-lightgreen?logo=moq&logoColor=white"></a>   
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
